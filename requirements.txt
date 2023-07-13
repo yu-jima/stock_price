@@ -1,4 +1,4 @@
-import pandas as pd
-import yfinance as yf
-import altair as alt
-import streamlit as st
+pandas==2.0.3
+yfinance==0.2.22
+altair==5.0.1
+streamlit==1.24.1
